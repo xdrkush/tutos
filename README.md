@@ -11,8 +11,6 @@ Linux, HTML/CSS/JS, SASS, NodeJS, VueJS, ReactJS, Web3, Discord, API, MySQL, ...
 
 </a>
 
-
-
 <h2>JS DOM (client):</h2>
 <a href="https://github.com/xdrkush/converter-devise" target="_blank" rel="noreferrer">
 
@@ -69,15 +67,6 @@ Linux, HTML/CSS/JS, SASS, NodeJS, VueJS, ReactJS, Web3, Discord, API, MySQL, ...
 <a href="https://github.com/xdrkush/hbs-mongo-node" target="_blank" rel="noreferrer">
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=xdrkush&repo=hbs-mongo-node&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-
-</a>
-
-
-<h2>SocketIO:</h2>
-
-<a href="https://github.com/xdrkush/socket-vue-game" target="_blank" rel="noreferrer">
-
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=xdrkush&repo=socket-vue-game&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 </a>
 
@@ -235,6 +224,12 @@ Linux, HTML/CSS/JS, SASS, NodeJS, VueJS, ReactJS, Web3, Discord, API, MySQL, ...
 <a href="https://github.com/xdrkush/tuto-cpp" target="_blank" rel="noreferrer">
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=xdrkush&repo=tuto-cpp&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+
+</a>
+
+<a href="https://github.com/xdrkush/socket-vue-game" target="_blank" rel="noreferrer">
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=xdrkush&repo=socket-vue-game&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 </a>
 

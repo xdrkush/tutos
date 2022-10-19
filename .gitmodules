@@ -1,0 +1,105 @@
+[submodule "html/arch-html-bootstrap"]
+	path = html/arch-html-bootstrap
+	url = git@github.com:xdrkush/arch-html-bootstrap.git
+[submodule "js/converter-devise"]
+	path = js/converter-devise
+	url = git@github.com:xdrkush/converter-devise.git
+[submodule "js/ex-appli-compt"]
+	path = js/ex-appli-compt
+	url = git@github.com:xdrkush/ex-appli-compt.git
+[submodule "nodejs/arch-node-es6"]
+	path = nodejs/arch-node-es6
+	url = git@github.com:xdrkush/arch-node-es6.git
+[submodule "nodejs/arch-node-ts"]
+	path = nodejs/arch-node-ts
+	url = git@github.com:xdrkush/arch-node-ts.git
+[submodule "nodejs/tuto-node-typescript"]
+	path = nodejs/tuto-node-typescript
+	url = git@github.com:xdrkush/tuto-node-typescript.git
+[submodule "nodejs/architecture-nodejs-base"]
+	path = nodejs/architecture-nodejs-base
+	url = git@github.com:xdrkush/architecture-nodejs-base.git
+[submodule "nodejs/hbs-node-mysql"]
+	path = nodejs/hbs-node-mysql
+	url = git@github.com:xdrkush/hbs-node-mysql.git
+[submodule "nodejs/hbs-mysql-node"]
+	path = nodejs/hbs-mysql-node
+	url = git@github.com:xdrkush/hbs-mysql-node.git
+[submodule "nodejs/hbs-mongo-node"]
+	path = nodejs/hbs-mongo-node
+	url = git@github.com:xdrkush/hbs-mongo-node.git
+[submodule "mysql/api-node-mysql"]
+	path = mysql/api-node-mysql
+	url = git@github.com:xdrkush/api-node-mysql.git
+[submodule "mysql/tuto-sequelize"]
+	path = mysql/tuto-sequelize
+	url = git@github.com:xdrkush/tuto-sequelize.git
+[submodule "mysql/drsql"]
+	path = mysql/drsql
+	url = git@github.com:xdrkush/drsql.git
+[submodule "mysql/tuto-drsql"]
+	path = mysql/tuto-drsql
+	url = git@github.com:xdrkush/tuto-drsql.git
+[submodule "reactjs/tuto-reactjs"]
+	path = reactjs/tuto-reactjs
+	url = git@github.com:xdrkush/tuto-reactjs.git
+[submodule "vuejs/tuto-vue"]
+	path = vuejs/tuto-vue
+	url = git@github.com:xdrkush/tuto-vue.git
+[submodule "vuejs/portfolio-quasar"]
+	path = vuejs/portfolio-quasar
+	url = git@github.com:xdrkush/porfolio-quasar.git
+[submodule "vuejs/quasar-node-mysql"]
+	path = vuejs/quasar-node-mysql
+	url = git@github.com:xdrkush/quasar-node-mysql.git
+[submodule "vuejs/tuto-quasarv2"]
+	path = vuejs/tuto-quasarv2
+	url = git@github.com:xdrkush/tuto-quasarv2.git
+[submodule "vuejs/arch-vue3-node-es6"]
+	path = vuejs/arch-vue3-node-es6
+	url = git@github.com:xdrkush/arch-vue3-node-es6.git
+[submodule "php/arch-php-bootstrap"]
+	path = php/arch-php-bootstrap
+	url = git@github.com:xdrkush/arch-php-bootstrap.git
+[submodule "php/crud-php-mysql"]
+	path = php/crud-php-mysql
+	url = git@github.com:xdrkush/crud-php-mysql.git
+[submodule "php/tuto-vue-php"]
+	path = php/tuto-vue-php
+	url = git@github.com:xdrkush/tuto-vue-php.git
+[submodule "other/socket-vue-game"]
+	path = other/socket-vue-game
+	url = git@github.com:xdrkush/socket-vue-game.git
+[submodule "other/threejs-webxr-tutorial"]
+	path = other/threejs-webxr-tutorial
+	url = git@github.com:xdrkush/threejs-webxr-tutorial.git
+[submodule "other/cours-fullstack-web"]
+	path = other/cours-fullstack-web
+	url = git@github.com:xdrkush/cours-fullstack-web.git
+[submodule "other/discord-bot"]
+	path = other/discord-bot
+	url = git@github.com:xdrkush/discord-bot.git
+[submodule "other/tuto-html-metamask"]
+	path = other/tuto-html-metamask
+	url = git@github.com:xdrkush/tuto-html-metamask.git
+[submodule "other/yt-trimmer"]
+	path = other/yt-trimmer
+	url = git@github.com:xdrkush/yt-trimmer.git
+[submodule "other/base-api-btc"]
+	path = other/base-api-btc
+	url = git@github.com:xdrkush/base-api-btc.git
+[submodule "other/scrape-indeed"]
+	path = other/scrape-indeed
+	url = git@github.com:xdrkush/scrape-indeed.git
+[submodule "other/tuto-kapp-vue-node"]
+	path = other/tuto-kapp-vue-node
+	url = git@github.com:xdrkush/tuto-kapp-vue-node.git
+[submodule "other/tuto-cs"]
+	path = other/tuto-cs
+	url = git@github.com:xdrkush/tuto-cs.git
+[submodule "other/tuto-python"]
+	path = other/tuto-python
+	url = git@github.com:xdrkush/tuto-python.git
+[submodule "other/tuto-cpp"]
+	path = other/tuto-cpp
+	url = git@github.com:xdrkush/tuto-cpp.git
