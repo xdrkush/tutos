@@ -8,6 +8,21 @@ Ajouter un nouveau submodule
 git submodule add https://... ./path
 ```
 
+Initialiser les submodules du repo
+```shell
+git submodule init
+```
+
+Initialiser un submodule dans le repo
+```shell
+git submodule init [path]
+```
+
+Mettre à jour le repo
+```shell
+git submodule update
+```
+
 Récupérer les commits distants du repo:
 ```shell
 git pull origin main
