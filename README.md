@@ -1,5 +1,5 @@
 # tutos
-Linux, HTML/CSS/JS, SASS, NodeJS, VueJS, ReactJS, Web3, Discord, API, MySQL, ...
+Linux, HTML/CSS/JS, SASS, NodeJS, VueJS, ReactJS, Web3, Discord, API, MySQL, Electron, ...
 
 <div align="center">
 
